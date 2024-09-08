@@ -38,6 +38,6 @@ The dataset used for testing and validation of the algorithm was generated using
 ## Contributors
 -**Shiv Prakash Verma**<br/>
 -**Vivek Chadgal**<br/>
--**name1**<br/>
+-**Varun Sharma**<br/>
 -**name2**<br/>
 
