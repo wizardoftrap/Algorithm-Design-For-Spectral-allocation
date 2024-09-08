@@ -35,3 +35,9 @@ The dataset used for testing and validation of the algorithm was generated using
 - **Poisson Distribution**: For modeling the number of already allocated channels.
 - **Uniform Distribution**: For modeling the random placement of channels.
 
+## Contributors
+-**Shiv Prakash Verma**
+-**Vivek Chadgal**
+-**name1**
+-**name2**
+
