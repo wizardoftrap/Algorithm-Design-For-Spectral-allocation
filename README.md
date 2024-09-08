@@ -36,8 +36,8 @@ The dataset used for testing and validation of the algorithm was generated using
 - **Uniform Distribution**: For modeling the random placement of channels.
 
 ## Contributors
--**Shiv Prakash Verma**
--**Vivek Chadgal**
--**name1**
--**name2**
+-**Shiv Prakash Verma**<br/>
+-**Vivek Chadgal**<br/>
+-**name1**<br/>
+-**name2**<br/>
 
